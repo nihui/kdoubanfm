@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=KDoubanFM
+Name[zh_CN]=KDoubanFM
+GenericName=Douban FM
+GenericName[zh_CN]=豆瓣电台
+Exec=kdoubanfm
+Type=Application
+Terminal=false
+Icon=kdoubanfm
+StartupNotify=false
+Categories=Qt;KDE;AudioVideo;Player;
